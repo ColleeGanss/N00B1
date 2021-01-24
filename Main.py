@@ -1,3 +1,6 @@
+#Janga Asal Ubah:D
+#Hanya Untuk Pembelajaran
+# Recod Juga Gpp Tpi Nitip Nick Gua:)
 # import file game.py
 import Game
 
